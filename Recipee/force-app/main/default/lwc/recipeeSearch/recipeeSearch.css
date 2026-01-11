@@ -1,0 +1,32 @@
+.recipeApp{
+    min-height:100vh;
+    background-image: url("/sfsites/c/resource/recipeSearchBackground");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo{
+    padding-top:20px;
+    min-width:200px;
+    max-height:150px;
+    margin:auto;
+    display:block;   
+}
+.welomeContent{
+    font-size:30px;
+    font-weight:700;
+    margin-top:50px;
+}
+.exploreContent{
+    font-size:20px;
+    font-weight:600;
+
+}
+.custom-button{
+    background: #000;
+    font-size:16px;
+    padding :12px;
+    border-color:#000;
+    color:white;
+    margin-top:50px;
+}
